@@ -1,2 +1,2 @@
 Git course
-This is from bug branch
+This is from feature2 branch
